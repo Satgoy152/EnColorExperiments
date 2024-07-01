@@ -1,9 +1,6 @@
-# ColorblindCorrection
+# EnColor Experiment
 
-
-# EnColor Experiments README
-
-![Pipeline](Architecture_diagram.png)
+![1719816906980](image/README/1719816906980.png)
 
 ## Overview
 
