@@ -65,10 +65,13 @@ EnColor uses a deep convolutional encoder-decoder architecture to transform imag
 3. **Data Preparation:**
 
    - Download and downsize the dataset using the provided notebooks in `data_gather/laboro_tomato`.
-4. **Model Training:**
+4. **Previous Experiments:**
+   - Baseline experiments from methods evaluated against EnColor are detailed here. 
+   - Note: We are still working to update code for methods besides daltonizer
+5. **Model Training:**
 
    - Train the model using the notebooks in `encolor`.
-5. **Simulation:**
+6. **Simulation:**
 
    - Use the `simulation.ipynb` notebook to apply the CVD simulator and evaluate the performance.
 
