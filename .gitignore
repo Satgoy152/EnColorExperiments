@@ -1,0 +1,13 @@
+Code/
+encolor/0.3_model_training_graph.png
+encolor/0.5_model_training_graph.png
+encolor/0.8_model_training_graph.png
+encolor/model_weights/*
+results/Color_retention_graph.png
+results/color_correction_preference_CVD_vs_Non-CVD_horizontal_smaller.png
+results/fuzzy_analysis.txt
+Architecture_diagram.png
+data_gather/laboro_tomato/train/*
+data_gather/laboro_tomato/test_downsized/*
+data_gather/laboro_tomato/test/*
+data_gather/laboro_tomato/annotations/*
