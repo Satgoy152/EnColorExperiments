@@ -2,7 +2,15 @@ Code/
 encolor/0.3_model_training_graph.png
 encolor/0.5_model_training_graph.png
 encolor/0.8_model_training_graph.png
-encolor/model_weights/*
+encolor/model_weights/model_0.1
+encolor/model_weights/model_0.2
+encolor/model_weights/model_0.3
+encolor/model_weights/model_0.4
+encolor/model_weights/model_0.6
+encolor/model_weights/model_0.7
+encolor/model_weights/model_0.8
+encolor/model_weights/model_0.9
+encolor/model_weights/model_1.0
 results/Color_retention_graph.png
 results/color_correction_preference_CVD_vs_Non-CVD_horizontal_smaller.png
 results/fuzzy_analysis.txt
